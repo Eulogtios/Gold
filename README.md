@@ -1,2 +1,2 @@
-# Gold
-How consumer confidence and business confidence affected gold price during the COVID-19 pandemic.
+# Gold Regression Analysis
+How consumer confidence and business confidence affected the price of gold during the COVID-19 pandemic.
